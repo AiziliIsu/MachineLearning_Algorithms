@@ -1,4 +1,5 @@
 Machine Learning Algorithms
+
 This repository provides a comprehensive collection of fundamental machine learning algorithms implemented in Python. It serves as a practical toolkit for training and evaluating various models, designed to showcase and compare their performance on both regression and classification tasks.
 
 Key Features
